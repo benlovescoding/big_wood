@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1280"
+   height="720"
+   viewBox="0 0 338.66666 190.50001"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="flying grass platform.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="0.53718434"
+     inkscape:cx="573.35998"
+     inkscape:cy="370.45011"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1728">
+      <stop
+         style="stop-color:#281000;stop-opacity:1;"
+         offset="0"
+         id="stop1724" />
+      <stop
+         style="stop-color:#893700;stop-opacity:1"
+         offset="1"
+         id="stop1726" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1072">
+      <stop
+         style="stop-color:#055905;stop-opacity:1"
+         offset="0"
+         id="stop1068" />
+      <stop
+         style="stop-color:#00ab00;stop-opacity:1"
+         offset="1"
+         id="stop1070" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1072"
+       id="linearGradient1074"
+       x1="96.43502"
+       y1="94.084473"
+       x2="96.044777"
+       y2="68.116127"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.85443242,0,0,0.51923767,12.455602,53.041719)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1728"
+       id="linearGradient1730"
+       x1="101.46268"
+       y1="113.28358"
+       x2="101.46268"
+       y2="150.22389"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.93064295,0,0,0.73359106,6.9805136,28.587969)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1072"
+       id="linearGradient3097"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.75694443,-496.97015,-183.49751)"
+       x1="96.044777"
+       y1="101.46268"
+       x2="96.044777"
+       y2="76.835823" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1728"
+       id="linearGradient3099"
+       gradientUnits="userSpaceOnUse"
+       x1="101.46268"
+       y1="113.28358"
+       x2="101.46268"
+       y2="150.22389"
+       gradientTransform="translate(-496.97015,-210.31343)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1072"
+       id="linearGradient4451"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.89245523,0,0,0.51923767,-486.04432,-75.124023)"
+       x1="96.43502"
+       y1="94.084473"
+       x2="96.044777"
+       y2="68.116127" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1728"
+       id="linearGradient4453"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.93064295,0,0,0.73359106,-490.35829,-99.577773)"
+       x1="101.46268"
+       y1="113.28358"
+       x2="101.46268"
+       y2="150.22389" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1072"
+       id="linearGradient4469"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9581749,0,0,0.75694443,164.30709,16.472642)"
+       x1="96.044777"
+       y1="101.46268"
+       x2="96.044777"
+       y2="76.835823" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1728"
+       id="linearGradient4471"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(163.02986,-10.343278)"
+       x1="101.46268"
+       y1="113.28358"
+       x2="101.46268"
+       y2="150.22389" />
+  </defs>
+  <g
+     inkscape:label="Katman 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:url(#linearGradient1730);fill-opacity:1;stroke:none;stroke-width:0.21896;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 44.567376,103.02009 5.042141,15.89813 10.542657,3.97452 4.583763,8.67169 17.87668,6.86511 h 25.669073 l 9.16753,-6.50378 14.66805,-4.33586 7.33402,-7.58773 v -5.78113 l 6.87564,-10.83964 z"
+       id="path1192"
+       sodipodi:nodetypes="cccccccccccc"
+       inkscape:export-filename="C:\Games\sprite set\vektorel\Grass platform fly\Kapak1192.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#linearGradient1074);fill-opacity:1;fill-rule:evenodd;stroke-width:0.666074;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect846"
+       width="110.68087"
+       height="18.413561"
+       x="38.547672"
+       y="91.914795"
+       ry="2.8131831"
+       rx="4.6292386"
+       inkscape:export-filename="C:\Games\sprite set\vektorel\Grass platform fly\Kapak1192.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#aa4400;stroke:none;stroke-width:0.218615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 82.612617,138.42954 98.386605,121.93393 83.513597,138.44974 Z"
+       id="path2440"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Games\sprite set\vektorel\Grass platform fly\Kapak1192.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#aa4400;stroke:none;stroke-width:0.218615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 78.24663,136.72517 89.080541,120.4348 77.314782,136.34193 Z"
+       id="path2640"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Games\sprite set\vektorel\Grass platform fly\Kapak1192.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#803300;stroke:none;stroke-width:0.218615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 72.209875,134.3938 85.753036,112.90129 73.263268,134.77704 Z"
+       id="path2642"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Games\sprite set\vektorel\Grass platform fly\Kapak1192.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#803300;stroke:none;stroke-width:0.218615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 68.141785,132.92593 4.375632,-5.6847 -3.32224,6.06794 z"
+       id="path2904"
+       inkscape:export-filename="C:\Games\sprite set\vektorel\Grass platform fly\Kapak1192.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#803300;stroke:none;stroke-width:0.218615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 64.735937,131.56443 10.219932,-14.3564 -9.166539,14.73966 z"
+       id="path2906"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Games\sprite set\vektorel\Grass platform fly\Kapak1192.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:url(#linearGradient3099);fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -456.58209,-108.85074 5.41791,21.671638 11.32836,5.41791 4.92537,11.82089 19.20896,9.35821 h 27.58208 l 9.85075,-8.86567 15.76119,-5.91045 7.8806,-10.34328 v -7.8806 l 7.38806,-14.776118 z"
+       id="path3083"
+       sodipodi:nodetypes="cccccccccccc" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#linearGradient3097);fill-opacity:1;fill-rule:evenodd;stroke-width:0.870026;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect3085"
+       width="129.53731"
+       height="26.843281"
+       x="-466.43283"
+       y="-126.82835"
+       ry="4.1010571"
+       rx="5.4179106" />
+    <path
+       style="fill:#aa4400;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -415.70149,-60.582092 16.94955,-22.4861 -15.98143,22.51364 z"
+       id="path3087"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#aa4400;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -420.39286,-62.905412 11.64132,-22.20634 -12.64262,21.68392 z"
+       id="path3089"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#803300;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -426.87951,-66.083442 14.55248,-29.29766 -13.42058,29.82008 z"
+       id="path3091"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#803300;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -431.25078,-68.084372 4.70173,-7.74915 -3.56983,8.27157 z"
+       id="path3093" />
+    <path
+       style="fill:#803300;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -434.91045,-69.940302 10.98158,-19.57005 -9.84968,20.09247 z"
+       id="path3095"
+       sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:14.1111px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="-442.29849"
+       y="-150.22388"
+       id="text3983"><tspan
+         sodipodi:role="line"
+         id="tspan3981"
+         style="stroke-width:0.264583"
+         x="-442.29849"
+         y="-150.22388">Demo</tspan></text>
+    <path
+       style="fill:url(#linearGradient4453);fill-opacity:1;stroke:none;stroke-width:0.21896;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -452.77143,-25.145652 5.04214,15.8981296 10.54266,3.97452 4.58376,8.67169 17.87668,6.8651104 h 25.66908 l 9.16753,-6.5037804 14.66805,-4.33586005 7.33402,-7.58772995 v -5.7811296 l 6.87564,-10.83964 z"
+       id="path4437"
+       sodipodi:nodetypes="cccccccccccc" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#linearGradient4451);fill-opacity:1;fill-rule:evenodd;stroke-width:0.680733;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect4439"
+       width="115.60625"
+       height="18.413561"
+       x="-458.79114"
+       y="-36.250946"
+       ry="2.8131831"
+       rx="4.8352427" />
+    <path
+       style="fill:#aa4400;stroke:none;stroke-width:0.218615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -414.72619,10.263798 -398.9522,-6.2318124 -413.82521,10.283998 Z"
+       id="path4441"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#aa4400;stroke:none;stroke-width:0.218615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -419.09217,8.5594276 10.83391,-16.29037 -11.76576,15.90713 z"
+       id="path4443"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#803300;stroke:none;stroke-width:0.218615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -425.12893,6.2280576 13.54316,-21.4925096 -12.48977,21.8757496 z"
+       id="path4445"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#803300;stroke:none;stroke-width:0.218615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -429.19702,4.7601876 4.37563,-5.68470005 -3.32224,6.06794005 z"
+       id="path4447" />
+    <path
+       style="fill:#803300;stroke:none;stroke-width:0.218615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -432.60287,3.3986876 10.21993,-14.3563996 -9.16653,14.7396596 z"
+       id="path4449"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:url(#linearGradient4471);fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 203.41792,91.119412 5.41791,21.671638 11.32836,5.41791 4.92537,11.82089 19.20896,9.35821 h 27.58208 l 9.85075,-8.86567 15.76119,-5.91045 7.8806,-10.34328 v -7.8806 l 7.38806,-14.776118 z"
+       id="path4455"
+       sodipodi:nodetypes="cccccccccccc"
+       inkscape:export-filename="C:\Games\sprite set\vektorel\Grass platform fly\Kapak1192.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#linearGradient4469);fill-opacity:1;fill-rule:evenodd;stroke-width:0.851637;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect4457"
+       width="124.1194"
+       height="26.843281"
+       x="193.56718"
+       y="73.141808"
+       ry="4.1010571"
+       rx="5.1913061"
+       inkscape:export-filename="C:\Games\sprite set\vektorel\Grass platform fly\Kapak1192.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#aa4400;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 244.29852,139.38806 16.94955,-22.4861 -15.98143,22.51364 z"
+       id="path4459"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Games\sprite set\vektorel\Grass platform fly\Kapak1192.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#aa4400;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 239.60715,137.06474 11.64132,-22.20634 -12.64262,21.68392 z"
+       id="path4461"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Games\sprite set\vektorel\Grass platform fly\Kapak1192.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#803300;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 233.1205,133.88671 14.55248,-29.29766 -13.42058,29.82008 z"
+       id="path4463"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Games\sprite set\vektorel\Grass platform fly\Kapak1192.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#803300;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 228.74923,131.88578 4.70173,-7.74915 -3.56983,8.27157 z"
+       id="path4465"
+       inkscape:export-filename="C:\Games\sprite set\vektorel\Grass platform fly\Kapak1192.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#803300;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 225.08956,130.02985 10.98158,-19.57005 -9.84968,20.09247 z"
+       id="path4467"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Games\sprite set\vektorel\Grass platform fly\Kapak1192.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
